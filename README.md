@@ -15,3 +15,6 @@ The objective of this project is to build an automated system that classifies ne
 - The model effectively captures contextual semantics in news headlines, even for overlapping categories.
 - Results highlight the effectiveness of transformer-based transfer learning for NLP classification tasks.
 
+<img width="1105" height="534" alt="image" src="https://github.com/user-attachments/assets/66059928-ec01-448b-a3d6-43d016e27898" />
+
+
