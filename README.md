@@ -1,4 +1,4 @@
-# 📰 News Topic Classification using BERT
+# News Topic Classification using BERT
 
 ## Objective of the Task
 The objective of this project is to build an automated system that classifies news headlines into predefined topic categories using a transformer-based deep learning model. The goal is to leverage transfer learning to achieve high classification accuracy with minimal manual feature engineering.
